@@ -7,5 +7,5 @@ eureka:
     serviceUrl:
       defaultZone:
         http://EurekaServer2:8762/eureka
-    registerWithEureka: true   #telling the server not to register himself in the service registry
+    registerWithEureka: true 
     fetchRegistry: true
